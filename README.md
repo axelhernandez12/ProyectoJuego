@@ -85,8 +85,7 @@ Este proyecto ha permitido crear un videojuego funcional a partir del ejemplo ba
 
 ##  Demo
 
-GIF del juego funcionando (menú → gameplay → game over)
-
+![Gameplay del juego](gameplay.gif)
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
