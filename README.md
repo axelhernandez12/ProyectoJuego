@@ -84,9 +84,8 @@ Este proyecto ha permitido crear un videojuego funcional a partir del ejemplo ba
 ---
 
  Demo del juego
-
 <p align="center">
-  <img src="assets/gameplay.gif" width="600">
+  <img src="./assets/gameplay.gif" width="600">
 </p>
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
